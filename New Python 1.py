@@ -1,4 +1,6 @@
-print('new file 1')
-print('second line')
-print('third line')
-print('forth line')
+import sys
+
+print(sys.builtin_module_names)
+print('nauja man tai ')
+
+#papildymas
