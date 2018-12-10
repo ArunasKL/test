@@ -1,3 +1,2 @@
-import sys
-print("vaaa")
-print('naujas pakeitimas')
+a=5
+c='stringas'
