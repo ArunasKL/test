@@ -1,3 +1,3 @@
 import sys
 print("vaaa")
-print('dar')
+print('naujas pakeitimas')
