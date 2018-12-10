@@ -1,2 +1,2 @@
-print('nauja')
-print("  ")
+import sys
+print("vaaa")
